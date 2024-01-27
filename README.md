@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @XIAOQINGeq
-- A Minecraft lover
+Xiaoqing’s mods, data packs, modpack feedback place
